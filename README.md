@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ymanda
 -  I’m interested in LARAVEL, BAMBOO, SUSTAINABILITY
-- 🌱 I’m currently learning ...LARAVEL TYPESCRIPT REACT INERTIA
-ymanda@gmail.com but you gotta instist, or+66080200622
+- 🌱 I’m currently learning ...Craft CMS , Arduino, INAV, RC, P.I.D, HeadTracking, Sensors
+ymanda@gmail.com 
 
 <!---
 Ymanda/Ymanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
