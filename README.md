@@ -6,6 +6,7 @@ Repo : https://github.com/Ymanda/GeoMANET-France-by-Yannick-Mandaba
 B- Drones
 C- Bambou, bio-energy : See www.SafeZone-FVP.com
 
+<img width="1037" height="898" alt="image" src="https://github.com/user-attachments/assets/49904ef0-f407-409c-9a6b-9ac351f02ba1" />
 
 <!---
 Ymanda/Ymanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
